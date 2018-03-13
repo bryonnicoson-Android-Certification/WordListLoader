@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">WordListLoader</string>
+    <string name="app_name">Word List Loader</string>
+    <string name="error_no_word">ERROR: NO WORD</string>
 </resources>
